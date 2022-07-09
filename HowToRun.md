@@ -1,5 +1,5 @@
 # Simple-Database
-A simple database made with Java
+A simple database made with Java.
 It can only save csv files, otherwise be thrown an exception.
 You can save the files writing "CREATE TABLE FROM <csv-file-path>".
 You can make a search writing "SELECT <column-name1,column-name2...> FROM <table-name>;".
